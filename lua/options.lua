@@ -1,6 +1,6 @@
 require("nvchad.options")
 
-vim.o.shell = "nu"
+--vim.o.shell = "nu"
 
 -- add yours here!
 
